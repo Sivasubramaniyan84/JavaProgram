@@ -1,7 +1,7 @@
 package src;
 
 import java.io.*;
-
+ 
 public class FileProgram implements Runnable {
 
     @Override
